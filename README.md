@@ -1,2 +1,2 @@
-# matahiA
-Mock website for a fictional restaurant
+# matahi
+Mock website for the fictional Matahi Historical Society
